@@ -6,14 +6,14 @@ import { Pensamento } from '../pensamento';
   templateUrl: './pensamento.component.html',
   styleUrls: ['./pensamento.component.css']
 })
-  
+
 export class PensamentoComponent implements OnInit {
 
   @Input() pensamento: Pensamento = {
     id: 0,
-    conteudo: 'I love code',
-    autoria: 'Sandro',
-    modelo: 'modelo3',
+    conteudo: '',
+    autoria: '',
+    modelo: '',
   }
 
   constructor() { }

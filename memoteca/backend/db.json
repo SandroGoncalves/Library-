@@ -1,12 +1,6 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "Olá aqui é o back-end",
-      "autoria": "Sandro Dev",
-      "modelo": "modelo1"
-    },
-    {
       "id": 2,
       "conteudo": "Olá aqui é o back-end se comunicando",
       "autoria": "Sandro Dev",
@@ -20,7 +14,7 @@
     },
     {
       "id": 4,
-      "conteudo": "Teste json server",
+      "conteudo": "Teste json server editado",
       "autoria": "Sandro Dev",
       "modelo": "modelo1"
     },
@@ -31,8 +25,8 @@
       "id": 5
     },
     {
-      "conteudo": "Segundo teste para adicionar um objeto ",
-      "autoria": "Dev sandro",
+      "conteudo": "teste 2",
+      "autoria": "22222",
       "modelo": "modelo2",
       "id": 6
     }
