@@ -1,0 +1,40 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Olá aqui é o back-end",
+      "autoria": "Sandro Dev",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Olá aqui é o back-end se comunicando",
+      "autoria": "Sandro Dev",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Olá novamente",
+      "autoria": "Sandro Dev",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 4,
+      "conteudo": "Teste json server",
+      "autoria": "Sandro Dev",
+      "modelo": "modelo1"
+    },
+    {
+      "conteudo": "Testando post",
+      "autoria": "Sandro dev ",
+      "modelo": "modelo3",
+      "id": 5
+    },
+    {
+      "conteudo": "Segundo teste para adicionar um objeto ",
+      "autoria": "Dev sandro",
+      "modelo": "modelo2",
+      "id": 6
+    }
+  ]
+}
